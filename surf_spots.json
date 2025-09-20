@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Linda Mar",
+    "surfline_id": "5842041f4e65fad6a7708976",
+    "type": "beach_break",
+    "characteristics": {
+      "wave_quality": "forgiving",
+      "consistency": "high",
+      "crowd_factor": "high",
+      "skill_level": "beginner_to_intermediate",
+      "best_boards": ["fish", "longboard", "hybrid"],
+      "wave_shape": "soft_shoulders",
+      "bottom": "sand_and_boulders",
+      "best_swell": "NW",
+      "best_wind": "offshore_SW",
+      "best_tide": "mid_to_high"
+    },
+    "description": "Forgiving beach break perfect for beginners. Crowded but consistent. Protected valley location creates offshore winds.",
+    "coordinates": [37.5631, -122.5108],
+    "seasonal_info": "Best September-May. Can be cranking in winter when rest of coast is blown out."
+  },
+  {
+    "name": "Linda Mar North",
+    "surfline_id": "5cbf8d85e7b15800014909e8",
+    "type": "beach_break",
+    "characteristics": {
+      "wave_quality": "forgiving",
+      "consistency": "high",
+      "crowd_factor": "medium",
+      "skill_level": "beginner_to_intermediate",
+      "best_boards": ["fish", "hybrid", "shortboard"],
+      "wave_shape": "soft_shoulders",
+      "bottom": "sand",
+      "best_swell": "NW",
+      "best_wind": "offshore_SW",
+      "best_tide": "mid_to_high"
+    },
+    "description": "Northern section of Linda Mar. Less crowded with slightly better shape when conditions align.",
+    "coordinates": [37.5645, -122.5115],
+    "seasonal_info": "Great spot for beginner to intermediate-advanced when optimal conditions align."
+  },
+  {
+    "name": "Rockaway",
+    "surfline_id": "5842041f4e65fad6a7708979",
+    "type": "beach_break",
+    "characteristics": {
+      "wave_quality": "challenging",
+      "consistency": "medium",
+      "crowd_factor": "medium",
+      "skill_level": "intermediate_to_advanced",
+      "best_boards": ["shortboard", "gun"],
+      "wave_shape": "powerful_rights_and_lefts",
+      "bottom": "sand_and_reef",
+      "best_swell": "NW",
+      "best_wind": "offshore_SE",
+      "best_tide": "low"
+    },
+    "description": "Rocky cove with powerful right-hand break and beach breaks. Deep channel allows access on big days. Heavier waves than Linda Mar.",
+    "coordinates": [37.5693, -122.5142],
+    "seasonal_info": "Year-round but shines on big winter NW swells. Can get quite busy when surf is up. Watch for rips, rocks, and strong currents."
+  },
+  {
+    "name": "Montara",
+    "surfline_id": "5842041f4e65fad6a7708978",
+    "type": "beach_break",
+    "characteristics": {
+      "wave_quality": "excellent",
+      "consistency": "medium",
+      "crowd_factor": "low",
+      "skill_level": "advanced",
+      "best_boards": ["shortboard", "gun"],
+      "wave_shape": "powerful_barrels",
+      "bottom": "sand",
+      "best_swell": "NW",
+      "best_wind": "offshore_E",
+      "best_tide": "mid"
+    },
+    "description": "Powerful beach break that can produce barrels. Less crowded but more challenging. Heavy waves.",
+    "coordinates": [37.5387, -122.5237],
+    "seasonal_info": "Best on solid NW swells. Can be dangerous - pounding surf on big days."
+  },
+  {
+    "name": "Princeton Jetty",
+    "surfline_id": "5842041f4e65fad6a770896f",
+    "type": "jetty_break",
+    "characteristics": {
+      "wave_quality": "good",
+      "consistency": "high",
+      "crowd_factor": "medium",
+      "skill_level": "intermediate",
+      "best_boards": ["shortboard", "fish", "longboard"],
+      "wave_shape": "defined_peaks",
+      "bottom": "sand_and_rock",
+      "best_swell": "SW_W",
+      "best_wind": "offshore_NE",
+      "best_tide": "low_to_mid"
+    },
+    "description": "Jetty creates defined peaks with wind protection. More preference for south swell than Linda Mar.",
+    "coordinates": [37.5024, -122.4817],
+    "seasonal_info": "Year-round spot. Protected from NW winds. Deep channel for easy paddle out."
+  },
+  {
+    "name": "Davenport",
+    "surfline_id": "584204214e65fad6a7709748",
+    "type": "reef_break",
+    "characteristics": {
+      "wave_quality": "world_class",
+      "consistency": "low",
+      "crowd_factor": "low",
+      "skill_level": "expert_only",
+      "best_boards": ["gun", "step_up"],
+      "wave_shape": "hollow_powerful_barrels",
+      "bottom": "reef",
+      "best_swell": "NW",
+      "best_wind": "offshore_E",
+      "best_tide": "mid_to_high"
+    },
+    "description": "World-class reef break. Extremely dangerous access down cliffs. Powerful hollow waves for experts only.",
+    "coordinates": [37.0058, -122.2108],
+    "seasonal_info": "Big winter NW swells only. Treacherous access and powerful waves. Shark presence."
+  },
+  {
+    "name": "Waddell Creek",
+    "surfline_id": "584204214e65fad6a7709749",
+    "type": "beach_break",
+    "characteristics": {
+      "wave_quality": "good",
+      "consistency": "medium",
+      "crowd_factor": "medium",
+      "skill_level": "intermediate",
+      "best_boards": ["shortboard", "fish", "longboard"],
+      "wave_shape": "long_rides",
+      "bottom": "sand",
+      "best_swell": "NW_SW",
+      "best_wind": "offshore_E",
+      "best_tide": "all_tides"
+    },
+    "description": "Consistent beach break with longer rides. Good for intermediate surfers. Scenic location.",
+    "coordinates": [37.0893, -122.2706],
+    "seasonal_info": "Year-round surf. Protected from strong NW winds by point."
+  },
+  {
+    "name": "Fort Point",
+    "surfline_id": "5842041f4e65fad6a7708885",
+    "type": "reef_break",
+    "characteristics": {
+      "wave_quality": "excellent",
+      "consistency": "low",
+      "crowd_factor": "medium",
+      "skill_level": "advanced",
+      "best_boards": ["shortboard", "gun"],
+      "wave_shape": "fast_barrels",
+      "bottom": "reef",
+      "best_swell": "NW",
+      "best_wind": "offshore_E",
+      "best_tide": "mid_to_high"
+    },
+    "description": "Iconic SF break under Golden Gate Bridge. Cold water, fast powerful waves. Historic location.",
+    "coordinates": [37.8108, -122.4767],
+    "seasonal_info": "Big winter NW swells. Very cold water year-round. Strong currents."
+  },
+  {
+    "name": "Pleasure Point",
+    "surfline_id": "5842041f4e65fad6a7708807",
+    "type": "point_break",
+    "characteristics": {
+      "wave_quality": "excellent",
+      "consistency": "high",
+      "crowd_factor": "very_high",
+      "skill_level": "intermediate_to_advanced",
+      "best_boards": ["shortboard", "fish"],
+      "wave_shape": "long_right_point",
+      "bottom": "rock_reef_sand",
+      "best_swell": "SW",
+      "best_wind": "offshore_NW",
+      "best_tide": "low_to_mid"
+    },
+    "description": "Famous right-hand point with multiple sections. Sewer Peak, First Peak, Jack's. Very crowded but excellent waves.",
+    "coordinates": [36.9647, -121.9730],
+    "seasonal_info": "Year-round consistency. Multiple sections offer waves for all abilities. Extremely competitive lineup."
+  },
+  {
+    "name": "The Hook",
+    "surfline_id": "5842041f4e65fad6a770887e",
+    "type": "point_break",
+    "characteristics": {
+      "wave_quality": "good",
+      "consistency": "high",
+      "crowd_factor": "high",
+      "skill_level": "beginner_to_intermediate",
+      "best_boards": ["longboard", "fish", "shortboard"],
+      "wave_shape": "mellow_point",
+      "bottom": "rock_reef_sand",
+      "best_swell": "SW",
+      "best_wind": "offshore_NW",
+      "best_tide": "all_tides"
+    },
+    "description": "Mellow point break next to Pleasure Point. More beginner-friendly with longer rides.",
+    "coordinates": [36.9631, -121.9742],
+    "seasonal_info": "Consistent year-round. Good learning spot for point break surfing."
+  },
+  {
+    "name": "South Ocean Beach",
+    "surfline_id": "5842041f4e65fad6a7708883",
+    "type": "beach_break",
+    "characteristics": {
+      "wave_quality": "challenging",
+      "consistency": "high",
+      "crowd_factor": "medium",
+      "skill_level": "expert",
+      "best_boards": ["gun", "step_up"],
+      "wave_shape": "powerful_closeouts",
+      "bottom": "sand",
+      "best_swell": "NW",
+      "best_wind": "offshore_E",
+      "best_tide": "mid"
+    },
+    "description": "Heavy, powerful beach break. Big waves, strong currents, dangerous conditions. Advanced surfers only.",
+    "coordinates": [37.7749, -122.5094],
+    "seasonal_info": "Winter NW swells create massive surf. Extremely challenging conditions with strong rip currents."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Libtech RNF96",
+    "length": "5'11\"",
+    "volume": 38.3,
+    "type": "fish/hybrid",
+    "construction": "libtech",
+    "ideal_wave_range": [2, 5],
+    "ideal_period_range": [8, 13],
+    "description": "Go-to for small, weak waves",
+    "session_notes": "Adjustable - track your sessions and update ranges"
+  },
+  {
+    "name": "Pyzel Wildcat",
+    "length": "6'0\"",
+    "volume": 34.5,
+    "type": "performance_shortboard",
+    "construction": "pu",
+    "ideal_wave_range": [3, 8],
+    "ideal_period_range": [11, 16],
+    "description": "High-performance for when it's firing",
+    "session_notes": "Traditional PU for responsive feel in powerful waves"
+  },
+  {
+    "name": "Aipa Dark Twinn",
+    "length": "5'10\"",
+    "volume": 33.1,
+    "type": "twin_fin",
+    "construction": "fused_cell_eps",
+    "ideal_wave_range": [2, 6],
+    "ideal_period_range": [9, 14],
+    "description": "Twin fin for playful, down-the-line surfing",
+    "session_notes": "EPS core gives extra liveliness and paddle power"
+  },
+  {
+    "name": "Pyzel Precious",
+    "length": "5'11\"",
+    "volume": 33.1,
+    "type": "performance_shortboard",
+    "construction": "xtr_parallel_carbon",
+    "ideal_wave_range": [2, 6],
+    "ideal_period_range": [10, 15],
+    "description": "All-around performer with carbon stiffness",
+    "session_notes": "Carbon construction excels in more powerful conditions"
+  },
+  {
+    "name": "Album Twinsman",
+    "length": "5'10\"",
+    "volume": 34.3,
+    "type": "twin_fin",
+    "construction": "darkarts",
+    "ideal_wave_range": [2, 5],
+    "ideal_period_range": [8, 13],
+    "description": "Darkarts twin for creative surfing",
+    "session_notes": "Custom construction optimized for small-medium waves"
+  }
+]
