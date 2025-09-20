@@ -1,8 +1,9 @@
 [
   {
     "name": "Libtech RNF96",
-    "length": "5'11\"",
-    "volume": 38.3,
+    "length": "5'9\"",
+    "width": "20.8\"",
+    "volume": 35.0,
     "type": "fish/hybrid",
     "construction": "libtech",
     "ideal_wave_range": [2, 5],
@@ -13,6 +14,7 @@
   {
     "name": "Pyzel Wildcat",
     "length": "6'0\"",
+    "width": "20.25\"",
     "volume": 34.5,
     "type": "performance_shortboard",
     "construction": "pu",
@@ -24,7 +26,8 @@
   {
     "name": "Aipa Dark Twinn",
     "length": "5'10\"",
-    "volume": 33.1,
+    "width": "20\"",
+    "volume": 33.13,
     "type": "twin_fin",
     "construction": "fused_cell_eps",
     "ideal_wave_range": [2, 6],
@@ -35,6 +38,7 @@
   {
     "name": "Pyzel Precious",
     "length": "5'11\"",
+    "width": "19.75\"",
     "volume": 33.1,
     "type": "performance_shortboard",
     "construction": "xtr_parallel_carbon",
@@ -46,7 +50,8 @@
   {
     "name": "Album Twinsman",
     "length": "5'10\"",
-    "volume": 34.3,
+    "width": "20\"",
+    "volume": 34.5,
     "type": "twin_fin",
     "construction": "darkarts",
     "ideal_wave_range": [2, 5],

@@ -366,9 +366,11 @@ class SurflineForecast:
             board = rec['board']
             construction_info = rec.get('construction_info', {})
             construction_type = rec.get('construction_type', 'pu')
+            # Always display width, use 'N/A' if not specified
+            width = board.get('width', 'N/A')
             output += f"""
 {i}. {board['name']} (Score: {rec['score']:.1f}/8.0)
-   📏 {board['length']} x {board.get('width', 'N/A')} | 💧 {board['volume']}L | 🏄‍♂️ {board['type']}
+   📏 {board['length']} x {width} | 💧 {board['volume']}L | 🏄‍♂️ {board['type']}
    🔧 {construction_type.title()} Construction
    💡 {construction_info.get('description', 'Traditional polyurethane construction')}
    💭 {board['description']}
